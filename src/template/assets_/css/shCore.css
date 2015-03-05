@@ -7,7 +7,7 @@
  *
  * @version
  * 3.0.83 (July 02 2010)
- * 
+ *
  * @copyright
  * Copyright (C) 2004-2010 Alex Gorbatchev.
  *
@@ -32,7 +32,7 @@
   float: none !important;
   height: auto !important;
   left: auto !important;
-  line-height: 1.1em !important;
+  line-height: 2em !important;
   margin: 0 !important;
   outline: 0 !important;
   overflow: visible !important;
@@ -47,7 +47,7 @@
   font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
   font-weight: normal !important;
   font-style: normal !important;
-  font-size: 1em !important;
+  font-size: 13px !important;
   min-height: inherit !important;
   min-height: auto !important;
 }
@@ -139,6 +139,7 @@
   height: 11px !important;
   font-size: 10px !important;
   z-index: 10 !important;
+  display: none;
 }
 .syntaxhighlighter .toolbar span.title {
   display: inline !important;
