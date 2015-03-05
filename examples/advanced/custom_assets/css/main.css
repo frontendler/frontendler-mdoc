@@ -525,7 +525,7 @@ hr {
     overflow-y: auto;
     overflow-x: hidden;
     background-color:#f5f5f5;
-    border-right:2px solid #ddd;
+    border-right:1px solid #ddd;
     top:0;
     bottom:0;
     left:0;
@@ -552,7 +552,7 @@ hr {
 }
 
 .toc-mod-title {
-    margin: 0;
+    margin: 1px 0;
     padding: 0.5em;
     font-size: 1.3em;
     background-color: #eee;
